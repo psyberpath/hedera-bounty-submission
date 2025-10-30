@@ -1,7 +1,7 @@
 # Verifiable Data Analytics Pipeline with Hedera (HCS)
 
-**Bounty:** [Link to the bounty page]
-**Video Demo:** [Link to your 2-3 minute Loom/YouTube video]
+**Bounty:** https://quest.hederahacks.com/quests/76
+**Video Demo:** https://drive.google.com/drive/folders/1um0rh5umeoh5RanZbCpBOZS5sI40o9xp?usp=drive_link
 
 ## 🚀 The Problem
 
