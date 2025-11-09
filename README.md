@@ -33,8 +33,8 @@ This solution directly addresses all three quest requirements:
 
 1.  Clone the repository:
     ```bash
-    git clone [your_github_repo_link]
-    cd hedera-bounty
+    git clone https://github.com/psyberpath/hedera-bounty-submission.git
+    cd hedera-bounty-submission
     ```
 2.  Install dependencies:
     ```bash
